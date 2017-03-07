@@ -19,7 +19,7 @@ import okhttp3.Response;
  * Author: 张智远  PC:MZ
  * Time: 2017/3/7 15:22
  * Email: 826680069@qq.com
- * Instruction: please enter class instruction here
+ * Instruction: https://github.com/hongyangAndroid/okhttputils
  */
 public class AddAddresActivity extends AppCompatActivity {
     String url = "http://www.csdn.net/";
